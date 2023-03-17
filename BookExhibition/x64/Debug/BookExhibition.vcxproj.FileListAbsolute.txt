@@ -1,0 +1,6 @@
+C:\PO\BookExhibition\BookExhibition\x64\Debug\BookExhibition.vcxproj.AssemblyReference.cache
+C:\PO\BookExhibition\BookExhibition\x64\Debug\BookExhibition.vcxproj.SuggestedBindingRedirects.cache
+C:\PO\BookExhibition\BookExhibition\x64\Debug\BookExhibition.MainForm.resources
+C:\PO\BookExhibition\BookExhibition\x64\Debug\BookExhibition.vcxproj.GenerateResource.cache
+C:\PO\BookExhibition\BookExhibition\x64\Debug\BookExhibition.exe
+C:\PO\BookExhibition\BookExhibition\x64\Debug\BookExhibition.AddForm.resources

@@ -1,0 +1,5 @@
+﻿  MainForm.cpp
+C:\PO\BookExhibition\BookExhibition\MainForm.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\PO\BookExhibition\BookExhibition\MainForm.h(96): warning C4700: использована неинициализированная локальная переменная "OpenAddForm"
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BookExhibition.vcxproj -> C:\PO\BookExhibition\BookExhibition\x64\Debug\BookExhibition.exe
